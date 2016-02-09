@@ -1,0 +1,1 @@
+CMDIdentify,RESIdentify,CMDInfo,RESInfo,CMDStats,RESstats,CMDauthentify,RESauthentify,CMDencrypt,RESencrypt,CMDdecrypt,RESdecrypt,CMDbye,RESbye,
